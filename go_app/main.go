@@ -25,5 +25,4 @@ func main() {
 
 	// Done
 	fmt.Println("\nDone.")
-
 }
